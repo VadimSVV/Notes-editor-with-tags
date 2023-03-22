@@ -8,9 +8,8 @@
 5. Использование CSS препроцессора. 
 6. Использование TypeScript 
 
-Netlify: 
+<a href="app.netlify.com/sites/sparkly-starlight-99f3a8/" target="_blank">Netlify</a>
 
-app.netlify.com/sites/sparkly-starlight-99f3a8/
 
 Примечания: 
 Во время редактирования заметки пользователь может создавать теги, используя символ #. 
