@@ -8,7 +8,7 @@
 5. Использование CSS препроцессора. 
 6. Использование TypeScript 
 
-<a href="app.netlify.com/sites/sparkly-starlight-99f3a8/" target="_blank">Netlify</a>
+<a href="https://app.netlify.com/sites/sparkly-starlight-99f3a8/" target="_blank">Netlify</a>
 
 
 Примечания: 
